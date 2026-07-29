@@ -1,2 +1,6 @@
 Hola ebac
+<<<<<<< Updated upstream
 Hola Ebac2.0
+=======
+Hola ebac2.0
+>>>>>>> Stashed changes
